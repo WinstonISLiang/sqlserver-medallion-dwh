@@ -1,6 +1,6 @@
 # Data Warehouse Project
 
-🚀 Welcome!!!?? I guess
+**This project is for Practicing purpose!!!**
 
 
 ### Projects Requirements
