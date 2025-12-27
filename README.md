@@ -99,7 +99,7 @@ Example SQL analytics are designed to answer common stakeholder questions:
 
 ```text
 .
-├── datasets/                           # Source CSVs (ERP + CRM):not presented in the repo
+├── datasets/                           # Source CSVs (ERP + CRM)
 ├── docs/                               # Architecture + model docs
 │   ├── data_architecture.png
 │   ├── data_flow.png
